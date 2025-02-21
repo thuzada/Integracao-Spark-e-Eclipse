@@ -78,13 +78,8 @@ Adicione um botão "Excluir" ao lado dos produtos para permitir a remoção.
 │── README.md
 ```
 
-## Melhorias Futuras
-- Implementar autenticação de usuários
-- Adicionar validações no formulário
-- Criar uma interface mais moderna com Bootstrap ou TailwindCSS
-
 ## Autor
-[Seu Nome](https://github.com/seu-usuario) - Desenvolvedor de Software
+[Arthur](https://github.com/thuzada)
 
 ## Licença
 Este projeto está licenciado sob a [MIT License](LICENSE).
