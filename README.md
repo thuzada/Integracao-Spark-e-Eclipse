@@ -14,8 +14,8 @@ Este projeto implementa um CRUD de produtos utilizando o framework **Spark**, ba
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/thuzada/Integracao-Spark-e-Eclipse.git
+cd Integracao-Spark-e-Eclipse
 ```
 
 ### 2. Configurar o Banco de Dados PostgreSQL
