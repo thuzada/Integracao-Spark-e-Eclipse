@@ -62,22 +62,6 @@ Clique em "Editar" ao lado de um produto para preencher o formulário com seus d
 ### 4. Exclusão de Produtos
 Adicione um botão "Excluir" ao lado dos produtos para permitir a remoção.
 
-## Estrutura do Projeto
-```
-/seu-projeto
-│── src/
-│   ├── main/
-│   │   ├── java/com/seuprojeto/
-│   │   │   ├── App.java
-│   │   │   ├── Produto.java
-│   │   │   ├── ProdutoDAO.java
-│   │   ├── resources/
-│   │   │   ├── application.properties
-│   ├── test/
-│── pom.xml
-│── README.md
-```
-
 ## Autor
 [Arthur](https://github.com/thuzada)
 
